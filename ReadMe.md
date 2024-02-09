@@ -1,4 +1,3 @@
-`Learning 24/7, Laughing 25/8`
 
 <p align="center">
   <img src="./kindness.gif" alt="possibilities and plausibilities" />
