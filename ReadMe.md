@@ -10,14 +10,14 @@ I blog very interesting engineering methods at [isthisan.ai](https://isthisan.ai
 
 #### some of my top open source repos to save you time
 
-https://github.com/bharxhav/antenna captures all types of network requests
+[antenna](https://github.com/bharxhav/antenna) captures all types of network requests
 
-https://github.com/bharxhav/whirlpool is a centralized api scheduling dashboard for your home-lab
+[whirlpool](https://github.com/bharxhav/whirlpool) is a centralized api scheduling dashboard for your home-lab
 
-save time with https://github.com/bharxhav/markup-heatmaps when you scrape too many unstructured websites
+save time with [markup-heatmaps](https://github.com/bharxhav/markup-heatmaps) when you scrape too many unstructured websites
 
-setup a free cdn (thank you msft) here on github via https://github.com/bharxhav/cdn-template
+setup a free cdn (thank you msft) here on github via [cdn-template](https://github.com/bharxhav/cdn-template)
 
-want to learn how to make you maps interesting? use https://github.com/bharxhav/relatable-impact
+want to learn how to make you maps interesting? use [relatable-impact](https://github.com/bharxhav/relatable-impact)
 
-machine learning is easy if you automate it using https://github.com/bharxhav/auto-sklearn
+machine learning is easy if you automate it using [auto-sklearn](https://github.com/bharxhav/auto-sklearn)
