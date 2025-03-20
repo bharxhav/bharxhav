@@ -1,6 +1,6 @@
-I blog very interesting engineering methods at [isthisan.ai](https://isthisan.ai)
+I blog very "interesting" engineering methods at [isthisan.ai](https://isthisan.ai)
 
-#### MISSION 2025
+#### THIS 2025
 
 - [5ki](https://5ki.org) is wikipedia but "explain like i'm 5."
 - [the intxr.net](https://intxr.net) is a collection of free, local, and open-source tools on the web.
